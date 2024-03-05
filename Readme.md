@@ -27,6 +27,6 @@ os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 %pip install llama-index-vector-stores-chroma
 ``` 
 - Run main.py
-- When everything is build simply write your question in terminal
+- When everything is build, simply write your question in terminal
 
 ### Time spend on task 1 hour 20 minutes
